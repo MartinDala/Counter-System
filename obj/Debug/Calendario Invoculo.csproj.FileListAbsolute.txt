@@ -1,0 +1,114 @@
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\JARVIS.exe.config
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\JARVIS.exe
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\Microsoft.Speech.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\ChatBot.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\GoogleSearchAPI.Net20.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\GoogleSearchAPI.Net20.xml
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\HeatonResearchNeural.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\WikiAPI.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\Calendario Invoculo.csprojAssemblyReference.cache
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.ResolveComReference.cache
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\JARVIS.AlarmClock.resources
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\JARVIS.MainForm.resources
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.GenerateResource.cache
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.CoreCompileInputs.cache
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.CopyComplete
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\JARVIS.exe
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\Calendario Invoculo\obj\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\JARVIS.exe.config
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\JARVIS.exe
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\Microsoft.Speech.dll
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\ChatBot.pdb
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\GoogleSearchAPI.Net20.pdb
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\GoogleSearchAPI.Net20.xml
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\HeatonResearchNeural.pdb
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\WikiAPI.pdb
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\Calendario Invoculo.csprojAssemblyReference.cache
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.ResolveComReference.cache
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\JARVIS.AlarmClock.resources
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\JARVIS.MainForm.resources
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.GenerateResource.cache
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.CoreCompileInputs.cache
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.CopyComplete
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\JARVIS.exe
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\JARVIS.spl.resources
+C:\Users\Martin Dala\Desktop\CursoCsharp\Calendario Invoculo\obj\Debug\JARVIS.Form1.resources
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\JARVIS.exe.config
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\JARVIS.exe
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\Microsoft.Speech.dll
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\ChatBot.pdb
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\GoogleSearchAPI.Net20.pdb
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\GoogleSearchAPI.Net20.xml
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\HeatonResearchNeural.pdb
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\WikiAPI.pdb
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csprojAssemblyReference.cache
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.ResolveComReference.cache
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.AlarmClock.resources
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.Form1.resources
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.MainForm.resources
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.spl.resources
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.GenerateResource.cache
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.CoreCompileInputs.cache
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.CopyComplete
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.exe
+C:\Users\Martin Dala\Desktop\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\JARVIS.exe.config
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\JARVIS.exe
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\Microsoft.Speech.dll
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\ChatBot.pdb
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\GoogleSearchAPI.Net20.pdb
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\GoogleSearchAPI.Net20.xml
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\HeatonResearchNeural.pdb
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\WikiAPI.pdb
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csprojAssemblyReference.cache
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.ResolveComReference.cache
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.AlarmClock.resources
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.Form1.resources
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.MainForm.resources
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.spl.resources
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.GenerateResource.cache
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.CoreCompileInputs.cache
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\Calendario Invoculo.csproj.CopyComplete
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.exe
+C:\Users\Martin Dala\Desktop\Projectos\Sistema de Senha\Calendario Invoculo\obj\Debug\JARVIS.pdb

@@ -1,0 +1,308 @@
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.exe
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.pdb
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\ChatBot.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\SoundControl.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\ChatBot.pdb
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\SoundControl.pdb
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\NAudio.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\dict.txt
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.AudioPlayerForm.resources
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.Browser.resources
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.DownloadManager.resources
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.ImageView.resources
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Video.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.xml
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Video.xml
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\obj\Debug\JARVIS.WebCamView.resources
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Vision.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Imaging.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Math.dll
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Vision.xml
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Imaging.xml
+C:\Users\Pedro\Documents\SharpDevelop Projects\JARVIS\JARVIS\bin\Debug\AForge.Math.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.AudioPlayerForm.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.Browser.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.DownloadManager.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.ImageView.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\dict.txt
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\ChatBot.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\NAudio.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\AForge.Math.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\AForge.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\AForge.Video.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\AForge.Vision.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\ChatBot.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\AForge.Imaging.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\AForge.Math.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\WikiAPI.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\bin\Debug\WikiAPI.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.AddNewFileOrProcess.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.5\JARVIS\obj\Debug\JARVIS.QASearch.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\dict.txt
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\ChatBot.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\NAudio.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\WikiAPI.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\AForge.Math.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\AForge.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\AForge.Imaging.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\AForge.Video.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\AForge.Vision.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\ChatBot.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\WikiAPI.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\bin\Debug\AForge.Math.xml
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.AddNewFileOrProcess.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.AudioPlayerForm.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.Browser.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.DownloadManager.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.ImageView.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.QASearch.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.Login.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.AddUser.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.CommandList.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.6\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\dict.txt
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\ChatBot.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\NAudio.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\WikiAPI.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\ChatBot.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\bin\Debug\WikiAPI.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.AddNewFileOrProcess.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.AddUser.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.AudioPlayerForm.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.Browser.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.CommandList.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.DownloadManager.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.ImageView.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.Login.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.QASearch.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\Versions\JARVIS MARK I v1.7\JARVIS\obj\Debug\JARVIS.WebCam.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AddNewFileOrProcess.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AddUser.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AudioPlayerForm.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.Browser.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.CommandList.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.DownloadManager.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.ImageView.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.Login.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.QASearch.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.WebCam.resources
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\dict.txt
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\ChatBot.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\NAudio.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\WikiAPI.dll
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\ChatBot.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\WikiAPI.pdb
+C:\Jarvis\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AddNewSemanticCommand.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AddNewFileOrProcess.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AddNewSemanticCommand.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AddUser.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AudioPlayerForm.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.Browser.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.CommandList.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.DownloadManager.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.ImageView.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.Login.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.QASearch.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.WebCam.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\dict.txt
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\AIMLbot.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\ChatBot.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\NAudio.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\ChatBot.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\WikiAPI.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.ImageSearch.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.MediaPlayer.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\obj\Debug\JARVIS.ProcessList.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\GoogleSearchAPI.Net20.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\GoogleSearchAPI.Net20.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\GoogleSearchAPI.Net20.xml
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.8\JARVIS\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\dict.txt
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\ChatBot.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\NAudio.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\ChatBot.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\GoogleSearchAPI.Net20.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\GoogleSearchAPI.Net20.xml
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\WikiAPI.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.AddNewFileOrProcess.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.AddNewSemanticCommand.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.AddUser.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.AudioPlayerForm.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.Browser.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.CommandList.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.DownloadManager.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.ImageSearch.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.ImageView.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.Login.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.ProcessList.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.QASearch.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.WebCam.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\Interop.WMPLib.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\AxInterop.WMPLib.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\Interop.WMPLib.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\AxInterop.WMPLib.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.csproj.ResolveComReference.cache
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.MediaPlayer.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\bin\Debug\GoogleSearchAPI.Net20.dll
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.YoutubePlayer.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.LoadingSystems.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.VolumeControl.resources
+C:\Jarvis\Versions\Versions\JARVIS MARK I v1.9\JARVIS\obj\Debug\JARVIS.TTS_Settings.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\Interop.WMPLib.dll
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\AxInterop.WMPLib.dll
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.csproj.ResolveComReference.cache
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.exe
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.pdb
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\dict.txt
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\JARVIS.exe
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\JARVIS.pdb
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\ChatBot.dll
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\ChatBot.pdb
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\GoogleSearchAPI.Net20.pdb
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\GoogleSearchAPI.Net20.xml
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\WikiAPI.pdb
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\Interop.WMPLib.dll
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\AxInterop.WMPLib.dll
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.AddNewFileOrProcess.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.AddNewSemanticCommand.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.AddUser.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.AudioPlayerForm.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.AudioRecorder.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.Browser.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.CommandList.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.DownloadManager.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.FileCompressor.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.ImageSearch.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.ImageView.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.LoadingSystems.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.Login.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.MediaPlayer.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.ProcessList.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.QASearch.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.TextEditor.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.TTS_Settings.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.VolumeControl.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.WebCam.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.YoutubePlayer.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.PDFSearcher.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.TorrentGetter.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.AlarmClock.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.PDFReader.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\HeatonResearchNeural.dll
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\HeatonResearchNeural.pdb
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.RedeNeuralTesting.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.KiwixBrowser.resources
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\HtmlAgilityPack.dll
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\HtmlAgilityPack.pdb
+C:\Jarvis\JARVIS MARK I v2.0\JARVIS\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.csprojAssemblyReference.cache
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.csproj.ResolveComReference.cache
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.AlarmClock.resources
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.MainForm.resources
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.csproj.GenerateResource.cache
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.csproj.CoreCompileInputs.cache
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.exe
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\Microsoft.Speech.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\ChatBot.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\GoogleSearchAPI.Net20.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\GoogleSearchAPI.Net20.xml
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\HeatonResearchNeural.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\WikiAPI.pdb
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\Newtonsoft.Json.Net20.xml
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\Interop.WMPLib.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin Dala\Music\JARVIS MARK I v2.0\JARVIS\obj\Debug\JARVIS.csproj.CopyComplete
